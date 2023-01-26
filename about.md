@@ -5,13 +5,10 @@ permalink: /about/
 published: true
 ---
 
-## Current Plans!
+## Current Plans
 
-I am a mathematician with skills in logical reasoning and multidisciplinary abilities. I have 4 years of experience working in
-start-up environments, making me flexible and adaptable. I am also a team player with a strong work ethic. My professional
-background includes coding in MATLAB for aerospace engineering projects and a Bachelor’s degree in mathematics from the
-University of Cantabria. I have also completed a Master’s degree in Data Science and I am seeking a challenging position in the data
-science industry where I can utilize my skills and continue to grow.
+I am seeking a challenging position in the data science industry where I can utilize my skills and continue to grow!
+
 
 # Education: 
 
