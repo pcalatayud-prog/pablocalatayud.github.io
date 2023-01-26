@@ -4,18 +4,18 @@ title: About
 permalink: /about/
 ---
 
-# Education: 
+# - Education: 
 
-## From 2012 to 2018
+## - From 2012 to 2018
 Bachelor's degree in mathematics with an specialization in finance by the university of Cantabria.\
 [On the ellipses and ellipsoids separation problem: an application of
 quantifier elimination](https://repositorio.unican.es/xmlui/bitstream/handle/10902/15655/Calatayud%20Pelayo%20Pablo.pdf?sequence=1&isAllowed=y)
 
-## From 2021 to 2023
-Master's in Data Science by the University of Cantabria - Menéndez Pelayo International University\
+## - From 2021 to 2023
+Master's in Data Science by the University of Cantabria - Menéndez Pelayo International University
 
-## From 2021 to 2022
-I cursed a postgraduate program in Quantitative Systems and Models for Algorithmic Trading by the Polytechnic University of Madrid\
+## - From 2021 to 2022
+I cursed a postgraduate program in Quantitative Systems and Models for Algorithmic Trading by the Polytechnic University of Madrid
 
 # Working Experience:
 
