@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-## - Current Plans!
+## Current Plans!
 
 I am a mathematician with skills in logical reasoning and multidisciplinary abilities. I have 4 years of experience working in
 start-up environments, making me flexible and adaptable. I am also a team player with a strong work ethic. My professional
