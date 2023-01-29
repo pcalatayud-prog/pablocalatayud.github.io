@@ -1,6 +1,6 @@
 ---
 layout: post
-title: post1
+title: post2
 published: true
 ---
 # 2. SECOND POST
