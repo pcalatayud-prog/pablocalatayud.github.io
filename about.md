@@ -35,6 +35,6 @@ I had worked as a software development engineer in the aerospace sector for more
 I have experience in developing python code for data science and algorithmic trading projects using Jupyter notebooks. My expertise includes utilizing libraries such as Pandas, Numpy, Scikit-learn, and Pytorch. I have experience in data aggregation from various API's such as FRED, Yahoo Finance, twitter, and Binance. I am also skilled in treating time series data and developing quantitative methods, supervised, unsupervised, and deep learning models to predict next day price movements and create algorithmic trading robots for financial investment based on ML models
 
 
-# Contact me
+# Do not hesitate to contact me for any enquire related to my posts.
 
 [email](mailto:pablocalatayudpelayo@gmail.com)
