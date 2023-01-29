@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2023-01-26-First_Post.md
+title: post1
 published: true
 ---
 # ft1asgasgfgsatbab
