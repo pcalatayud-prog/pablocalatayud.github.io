@@ -15,7 +15,7 @@ I am seeking a challenging position in the data science industry where I can uti
 
 # Education
 
- - Master's in Data Science by the University of Cantabria - Menéndez Pelayo International University from 2021 to 2022.
+ - Master's in Data Science by the University of Cantabria & Menéndez Pelayo International University from 2021 to 2022.
 
 - Bachelor's degree in mathematics with an specialization in finance by the university of Cantabria from 2012 to 2018.\
 [On the ellipses and ellipsoids separation problem: an application of
