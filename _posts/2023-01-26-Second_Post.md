@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2023-01-26-Second_Post.md
+title: post1
 published: true
 ---
 # 2. SECOND POST
