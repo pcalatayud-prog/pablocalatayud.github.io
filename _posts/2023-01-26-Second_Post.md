@@ -1,7 +1,7 @@
 ---
 layout: post
 title: post2
-published: true
+published: false
 ---
 # 2. SECOND POST
 ## 2.1
