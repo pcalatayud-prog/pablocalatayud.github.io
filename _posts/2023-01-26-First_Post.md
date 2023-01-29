@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Does Elon Musk move the doge price? Hypothesis Test, Z-test'
+title: >-
+  Analyzing the Impact of Elon Musk's Tweets on Dogecoin Price: A Hypothesis
+  Test
 published: true
 ---
-# ft1asgasgfgsatbab
-# ft1asgasgfgsatbab
-# ft1asgasgfgsatbab
+
