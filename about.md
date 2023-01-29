@@ -5,6 +5,8 @@ permalink: /about/
 published: true
 ---
 
+I am a highly self-motivated and dedicated professional with a proven track record of success in various industries. I am a team player who values collaboration and works well with others to achieve common goals. I am committed to excellence in everything I do and take pride in my ability to drive results. I am also a social and outgoing individual who enjoys interacting with others and building strong relationships. I am goal-oriented and always strive to improve and achieve success. Furthermore, I am client-oriented and dedicated to ensuring that my clients are satisfied with the work that I provide
+
 # Current Situation
 
 I work as a freelance in UpWork. I work with python and jupyter notebooks in finance and data science projects.
