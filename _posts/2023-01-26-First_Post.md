@@ -1,6 +1,6 @@
 ---
 layout: post
-title: post1
+title: post_1.md
 published: true
 ---
 # ft1asgasgfgsatbab
