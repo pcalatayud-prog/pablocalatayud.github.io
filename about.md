@@ -7,7 +7,7 @@ published: true
 
 ## Current Situation
 
-I work as a freelance in UpWork. I work in data science, python and finance projects
+I work as a freelance in UpWork. I work with python and jupyter notebooks in finance and data science projects.
 
 I am seeking a challenging position in the data science industry where I can utilize my skills and continue to grow!
 
