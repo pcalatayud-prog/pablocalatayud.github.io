@@ -13,7 +13,7 @@ I work as a freelance in websites such as UpWork. I work with python and jupyter
 
 I am seeking a challenging position in the data science industry where I can utilize my skills and continue to grow!
 
-# Education: 
+# Education
 
  - Master's in Data Science by the University of Cantabria - Menéndez Pelayo International University from 2021 to 2022.
 
@@ -23,14 +23,12 @@ quantifier elimination](https://repositorio.unican.es/xmlui/bitstream/handle/109
 
 - I cursed a postgraduate program in Quantitative Systems and Models for Algorithmic Trading by the Polytechnic University of Madrid from 2021 to 2022
 
-# Working Experience:
+# Working Experience
 
-## Freelance
-#### From Oct 2021 to Present
+ - ## Freelance From Oct 2021 to Present
 I have experience in developing python code for data science and algorithmic trading projects using Jupyter notebooks. My expertise includes utilizing libraries such as Pandas, Numpy, Scikit-learn, and Pytorch. I have experience in data aggregation from various API's such as FRED, Yahoo Finance, twitter, and Binance. I am also skilled in treating time series data and developing quantitative methods, supervised, unsupervised, and deep learning models to predict next day price movements and create algorithmic trading robots for financial investment based on ML models
 
-## Celestia Tech Group
-#### From 2016 to Oct 2021
+ - ## Celestia Tech Group From 2016 to Oct 2021
 I had worked as a software development engineer in the aerospace sector for 5 years. Most of my professional experience lies in MATLAB and python coding and developing models to calculate the radiation patterns of different electronic scan antenna geometries for different phase beam designs. I evaluated massive amounts of radiation patterns datasets looking for trade-offs based on aerospace regulations, client requirements, and engineering capabilities. In the words of the European Space Agency (ESA), “the project provided a high performance based on the state of the art of several key technologies [ESA Project](https://artes.esa.int/projects/escan).
 
 ## Do not hesitate to contact me for any enquire related to my posts.
